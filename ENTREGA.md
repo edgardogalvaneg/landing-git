@@ -3,7 +3,7 @@ Curso:Git Hub
 Fecha de entrega 11-09-26
 
 Repositorio GitHub:https://github.com/edgardogalvaneg/landing-git.git
-Issue:
+Issue:https://github.com/edgardogalvaneg/landing-git/issues/1#issue-5420756431
 Pull request:
 
 
