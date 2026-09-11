@@ -2,7 +2,7 @@ Nombre:Hector Edgardo Galvan
 Curso:Git Hub
 Fecha de entrega 11-09-26
 
-Repositorio GitHub:
+Repositorio GitHub:https://github.com/edgardogalvaneg/landing-git.git
 Issue:
 Pull request:
 
